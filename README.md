@@ -1,5 +1,6 @@
 # MultiTask-Sentiment-Analysis
-Implementation for our SIGIR 2017 paper : "Multitask Learning for Fine-Grained Twitter Sentiment Analysis". If you find this code useful in your research, please consider citing:
+
+Draft implementation for our SIGIR 2017 paper : "Multitask Learning for Fine-Grained Twitter Sentiment Analysis". If you find this code useful in your research, please consider citing:
 
     @inproceedings{Balikas:2017:MLF:3077136.3080702,
         author = {Balikas, Georgios and Moura, Simon and Amini, Massih-Reza},
